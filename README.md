@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SachinThenua
-- 👀 I’m interested in learning something new every day
-- 🌱 I’m currently learning Andriod Development 
-- 💞️ I’m looking to collaborate on Open source projects 
-- 📫 you can reach  me on Tweeter id- @SachinThenua13
+- 👀 I’m interested in learning something new every day.
+- 🌱 I’m currently learning Andriod Development. 
+- 💞️ I’m looking to collaborate on Open source projects .
+- 📫 you can reach  me on Tweeter id- @SachinThenua13.
 
 
 <!---
